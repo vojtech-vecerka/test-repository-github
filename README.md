@@ -8,3 +8,5 @@ git add . - zastaguje vsechny zmenene (modified) soubory
 git commit - m "" - ulozeni zmeny
 git push = odeslat commit na remote repositar
 git pull stahneme si nove zmeny z remote repozitare
+
+uaezfgisefgieugiuwegfuie
